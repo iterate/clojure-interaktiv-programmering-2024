@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/Literate_programming
 
 https://en.wikipedia.org/wiki/Interactive_programming
 
+https://www.softwarepreservation.org/projects/interactive_c/bib/Sandewall-1978.pdf
+
 ## 0γ: Clerk: et verktøy for iteraktiv _og_ literate programming
 
 | Hva                            | URL                        |
