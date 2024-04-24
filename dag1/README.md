@@ -19,7 +19,6 @@ Hver dag:
 - Vi blir lenger i rommet hvis vi har anledning, hjelper gjerne folk som vil prøve mer!
 - Still spørsmål i #clojure på Slack hvis du lurer på noe!
   Vi følger med så godt vi kan.
-  Gi oss eventuelt en @teodor eller @olav eller @ruben hvis du ikke får svar!
 
 Oppfordringer:
 
