@@ -1,4 +1,4 @@
-# Interaktiv programmering med Clojure: dag 2
+# Interaktiv programmering med Clojure: dag 3
 
 Velkommen!
 
