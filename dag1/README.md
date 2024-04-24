@@ -6,7 +6,7 @@ Velkommen!
 
 ## 1α: hva skjer i kurset?
 
-| Del   | Dag     | Innhold                                                       |
+| Del   | Dag     | Innhold                                                |
 |-------|---------|--------------------------------------------------------|
 | Del 1 | Tirsdag | Trene på interaktiv programmering med REPL             |
 | Del 2 | Onsdag  | Bruke databasen Datomic - den kan scrolle i tid!       |

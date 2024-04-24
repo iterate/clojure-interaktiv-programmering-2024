@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Interactive_programming
 
 | Hva                            | URL                        |
 |--------------------------------|----------------------------|
-| Nettside                       | https://clerk.vision/                           |
+| Nettside                       | https://clerk.vision/      |
 | Dokumentasjon                  | https://book.clerk.vision/ |
 | Vitenskaplig artikkel fra 2023 | https://px23.clerk.vision/ |
 
